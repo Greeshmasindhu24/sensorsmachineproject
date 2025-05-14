@@ -1,0 +1,11 @@
+streamlit==1.15.0
+#transformers==4.30.0
+#sentence-transformers==2.2.2
+faiss-cpu==1.7.2
+#torch==2.0.0
+transformers==4.37.2
+sentence-transformers==2.5.1
+torch==2.1.2
+keras==2.11.0         # or use tf-keras
+tensorflow==2.11.0    # only if you use TF
+
