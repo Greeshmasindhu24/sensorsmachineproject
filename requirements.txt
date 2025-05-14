@@ -8,4 +8,11 @@ sentence-transformers==2.5.1
 torch==2.1.2
 keras==2.11.0         # or use tf-keras
 tensorflow==2.11.0    # only if you use TF
+streamlit==1.33.0
+pandas==2.2.2
+sentence-transformers==2.2.2
+transformers==4.39.3
+torch==2.2.2
+faiss-cpu==1.7.4
+reportlab==4.1.0
 
